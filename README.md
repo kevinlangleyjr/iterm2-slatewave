@@ -12,6 +12,8 @@ A Slatewave `.itermcolors` preset for [iTerm2](https://iterm2.com) — slate fou
 
 > _Slate below, teal above._
 
+![Slatewave prompt preview](docs/preview.png)
+
 </div>
 
 ---
